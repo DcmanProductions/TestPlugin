@@ -1,0 +1,8 @@
+main: com.dcman58.TutorialPlugin.Main
+name: TestPlugin
+description: It's A Test. ENJOY!
+version: 0.01
+commands: 
+  freeze: 
+    alias: [freeze]
+    description: Freezes the player.
